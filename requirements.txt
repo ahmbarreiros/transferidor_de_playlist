@@ -1,0 +1,7 @@
+apiclient
+oauth2client
+requests
+validators
+base64
+urllib
+dotenv
